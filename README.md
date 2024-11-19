@@ -58,7 +58,7 @@ pip install -r requirements.txt
  <p>'val_recall': [0.6154855489730835, 0.6338582634925842, 0.5839895009994507]}</p>
 </h4>
 
-<h2>Future Work</h2>h2>
+<h2>Future Work</h2>
 <p>1. Extend the model to handle multilingual tweets.</p>
 <p>2. Improve the preprocessing pipeline for better handling of noisy text.</p>
 <p>3. Deploy the model as a web application for real-time tweet analysis.</p>
